@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **AWS, Go, etc.**
 
-- 💬 Ask me about **Appsec**
+- 💬 Ask me about **Product Security**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
